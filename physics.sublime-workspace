@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"word_",
+				"word_moved"
+			],
+			[
+				"class",
+				"class_id_"
+			],
+			[
+				"_",
+				"_yielder"
+			],
+			[
+				"room",
+				"room_prepared"
+			],
+			[
+				"teaching_",
+				"teaching_main"
+			],
+			[
+				"learning_",
+				"learning_main"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"obj",
+				"obj_name_"
+			],
+			[
+				"isSelecta",
+				"isSelectable"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"texture",
+				"texture_"
+			],
+			[
+				"text",
+				"texture_"
+			],
+			[
+				"eff",
+				"effectSSAO"
+			],
+			[
+				"debug",
+				"debugPannel"
+			],
+			[
+				"step",
+				"stepsDone"
+			],
+			[
+				"q",
+				"quarter"
+			],
+			[
+				"cat",
+				"catchEvents"
+			],
+			[
+				"ca",
+				"catchEvents"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"wa",
+				"wallRims"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ri",
+				"wallRims"
+			],
+			[
+				"height",
+				"height_"
+			],
+			[
+				"wall",
+				"wallRims"
+			],
+			[
+				"si",
+				"sizeX"
+			],
+			[
+				"has",
+				"hasMoved"
+			],
+			[
+				"drag",
+				"dragMoved"
+			],
+			[
+				"dra",
+				"dragMoved"
+			],
+			[
+				"isD",
+				"isDraggable"
+			],
+			[
+				"def",
+				"defautAnisotropy"
+			],
+			[
+				"isDrag",
+				"isDragable"
+			],
+			[
+				"ti",
+				"timedObject"
+			],
+			[
+				"loo",
+				"loopbackLimit_"
+			],
+			[
+				"counter",
+				"counterWay"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"subscri",
+				"subscribe-form"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"subscr",
+				"subscribe-form"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"item",
+				"item_link"
+			],
+			[
+				"total",
+				"total_cat"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"head",
+				"head"
+			],
+			[
+				"player",
+				"playerid"
+			],
+			[
+				"teachin",
+				"teaching_main"
+			],
+			[
+				"backround",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4584,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/views/learning_filltheblanks.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/views/teaching_filltheblanks.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/views/learning_main.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/views/teaching_main.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/views/learning_scrambler.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/models/Room.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/views/teaching_scrambler.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/app/controllers/BaseController.php",
+		"/Users/simonced/Sites/laravel-simonced/app/views/main.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/controllers/Teaching.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/controllers/Learning.php",
+		"/Users/simonced/Sites/laravel-simonced/app/views/nav.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/app/controllers/Pages.php",
+		"/Users/simonced/Sites/laravel-simonced/app/views/err.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/app/views/msg.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/app/views/pages/_yielder.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/routes.php",
+		"/Users/simonced/Sites/laravel-simonced/app/routes.php",
+		"/Users/simonced/Sites/laravel-simonced/app/config/database.php",
+		"/Users/simonced/Sites/tools/CSS/bootstrap-3.0.0/dist/css/bootstrap-theme.css",
+		"/Users/simonced/Sites/simonced_webadvisor/_webgl/three.js/js/room-engine/app.Scene.js",
+		"/Users/simonced/Sites/simonced_webadvisor/_webgl/three.js/js/room-engine/simonced.Object3D.js",
+		"/Users/simonced/Sites/simonced_webadvisor/_webgl/three.js/js/room-engine/app.pannels.js",
+		"/Users/simonced/Sites/simonced_webadvisor/_webgl/three.js/js/room-engine/simonced.cameraControl.js",
+		"/Users/simonced/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/simonced/Sites/simonced_webadvisor/_webgl/three.js/css/styles.css",
+		"/Users/simonced/Sites/simonced_webadvisor/_webgl/three.js/js/simonced.timedObjects.js",
+		"/Users/simonced/Sites/simonced_webadvisor/_webgl/three.js/js/_tests.js",
+		"/Users/simonced/Desktop/sample/index.html",
+		"/Users/simonced/Sites/tools/webgl/styles.css",
+		"/Users/simonced/Sites/tools/webgl/test",
+		"/Users/simonced/Library/Application Support/Sublime Text 2/Packages/User/html5.sublime-snippet",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/css/section-header.css",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/php/section-header.php",
+		"/Users/simonced/Sites/Creative Loot/Home Page/js/main.js",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/php/feature-chooseplan.php",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/css/feature-chooseplan.css",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/css/styles.css",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/php/feature-howwedoit.php",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/css/feature-howwedoit.css",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/css/feature-amazingpoints.css",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/css/section-team.css",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/css/adaptive.css",
+		"/Users/simonced/Sites/Creative Loot/Home Page/index.php",
+		"/Users/simonced/Sites/Creative Loot/Home Page/_skeleton/php/feature-amazing.php",
+		"/Users/simonced/Documents/dvpt/Chromium/smiley of the day/src/smileys.json",
+		"/Users/simonced/Documents/dvpt/Chromium/YoutubePlaylistNotifier/src/manifest.json",
+		"/Users/simonced/Documents/dvpt/Chromium/smiley of the day/src/icons.json",
+		"/Users/simonced/Library/Application Support/minecraft/versions/1.6.4.mods/1.6.4.mods.json",
+		"/Users/simonced/Sites/Creative Loot/Play Loot/js/mep-feature-playloottags.js",
+		"/Users/simonced/Sites/Creative Loot/Play Loot/index.html",
+		"/Users/simonced/Desktop/CL/Creative Loot - The Ultimate Social Commerce Platform.html",
+		"/Users/simonced/Sites/Creative Loot/Play Loot/youtube-html5-test2.html",
+		"/Users/simonced/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/simonced/Sites/Creative Loot/Play Loot/osm-html5-test.html",
+		"/Users/simonced/Sites/Creative Loot/Play Loot/osm.html",
+		"/Users/simonced/Sites/Creative Loot/Play Loot/osm",
+		"/Users/simonced/Sites/Creative Loot/Play Loot/youtube-html5-test.html",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/vendor/illuminate/support/Illuminate/Support/Facades/View.php",
+		"/Users/simonced/Sites/simonced_webadvisor/application/controllers/teaching.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/views/test_teaching_main.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/controllers/teaching.php",
+		"/Users/simonced/Sites/laravel-simonced/app/config/app.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/src/Simonced/Education/EducationServiceProvider.php",
+		"/Users/simonced/Sites/laravel-simonced/app/controllers/HomeController.php",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/composer.json",
+		"/Users/simonced/Sites/laravel-simonced/workbench/simonced/education/controllers/teaching.php",
+		"/Users/simonced/Sites/laravel-simonced/public/css/site.css",
+		"/Users/simonced/Sites/laravel-simonced/workbench/Simonced/Education/composer.json",
+		"/Users/simonced/Sites/laravel-simonced/composer.json",
+		"/Users/simonced/Sites/laravel-simonced/app/config/workbench.php",
+		"/Users/simonced/Sites/laravel-simonced/app/views/pages/about.blade.php",
+		"/Users/simonced/Sites/laravel-simonced/app/views/home.blade.php",
+		"/Users/simonced/Sites/simonced_webadvisor/application/config/database.php",
+		"/Users/simonced/Sites/laravel-simonced/bootstrap/start.php",
+		"/Users/simonced/Sites/laravel-simonced/bootstrap/paths.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"room",
+			"data_room",
+			"msg",
+			"this->assign('",
+			"error",
+			"msg_",
+			"chair",
+			"this.",
+			"f.",
+			"f",
+			"f2",
+			"closet",
+			"object",
+			"applyTexture",
+			"effect",
+			"	\n",
+			"axis",
+			"oDragging",
+			"oSelected",
+			"texture_",
+			"this",
+			"applyTexture",
+			"mousePosOnCanvas",
+			"isMoving",
+			"h2",
+			"wall",
+			"Wall",
+			"wall",
+			"basicWall",
+			"Wall",
+			"floor",
+			"Floor",
+			"floor",
+			"basicWall",
+			"isDebug",
+			"dragMoved",
+			"oDragging",
+			"isDraggable",
+			"texturePainting",
+			"mouseDownPosition",
+			"oldPosition",
+			"isDragable",
+			"dragable",
+			"cube.",
+			"cube",
+			"form",
+			"//include",
+			"			</div>",
+			"\n	            ",
+			"	            ",
+			"<div class=\"sep\"></div>",
+			"</h6>",
+			"<div class=\"sep\"></div>",
+			"include",
+			"<div> <img",
+			"<div><img",
+			"<img src=\"images/02_Story1.png\" alt=\"\" />",
+			"responsive",
+			"<div class=\"sep\"></div>",
+			"middle",
+			"ap-point",
+			"col-md-4 col-sm-4 ",
+			"\n@",
+			"class=\"featu\"",
+			"img/",
+			"<h6 style=\"font-weight:bold\">",
+			"class=\"ft1\" ",
+			" class=\"icon\"",
+			"strong",
+			"#close",
+			"item_",
+			"width",
+			"\\",
+			"\\(",
+			"\"items\":.*?\"",
+			"\"items\".*?\"",
+			"\".*?\".*?\"",
+			"\\\"",
+			",\n	{\n		\"name\":\"TODO\",\n		\"items\": [\n			\"XD\"\n		]\n	}",
+			"^\\s",
+			"\\t",
+			"^\\s",
+			"\\t",
+			"^\\s",
+			"\\t",
+			"\\s",
+			"\\t",
+			"categry",
+			"count",
+			"int",
+			"math",
+			"type",
+			"<div id=\"smiley\">;-)</div>",
+			"\\t",
+			"time-rail",
+			"color",
+			"white",
+			"jquery.js\"></script>\n<script src=\"mediaelement-and-player.min.js\"></script>\n<link rel=\"",
+			"page",
+			"loadView",
+			"display"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"\\r"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"scene",
+				"js/room-engine/app.Scene.js"
+			],
+			[
+				"object",
+				"js/room-engine/simonced.Object3D.js"
+			],
+			[
+				"app.pann",
+				"js/room-engine/app.pannels.js"
+			],
+			[
+				"camcon",
+				"js/room-engine/simonced.cameraControl.js"
+			],
+			[
+				"css",
+				"css/app.css"
+			],
+			[
+				"header",
+				"css/section-header.css"
+			],
+			[
+				"con",
+				"js/config.js"
+			],
+			[
+				"basecon",
+				"app/controllers/BaseController.php"
+			],
+			[
+				"loadview",
+				"workbench/simonced/education/vendor/illuminate/support/Illuminate/Support/Facades/View.php"
+			],
+			[
+				"teach",
+				"workbench/simonced/education/src/controllers/Teaching.php"
+			],
+			[
+				"base",
+				"app/controllers/BaseController.php"
+			],
+			[
+				"msg",
+				"app/views/msg.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true
+}
